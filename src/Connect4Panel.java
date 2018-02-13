@@ -4,6 +4,7 @@ import java.awt.GridLayout;
 import javax.swing.BorderFactory;
 import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
 public class Connect4Panel extends JPanel {
 
 	public void display(Tile[][] tilePlane) {

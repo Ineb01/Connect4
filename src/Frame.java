@@ -7,6 +7,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
 public class Frame extends JFrame {
 
 	private Connect4 connect4 = new Connect4();
